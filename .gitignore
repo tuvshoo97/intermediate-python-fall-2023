@@ -1,2 +1,4 @@
 .Ds_Store
 .ipynb_checkpoints/
+.DS_Store
+*.jupyterlab-workspace
